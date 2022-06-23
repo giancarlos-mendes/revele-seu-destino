@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./img/banner.png)
 
 # Revele seu destino!🧙‍♂️
 
@@ -8,6 +8,11 @@ Digite sua pergunta no campo de texto, aperte o botão `Fazer pergunta` e releve
 🔮 Para revelar o seu destino [clique aqui](https://giancarlos-mendes.github.io/revele-seu-destino/)!
 
 Projeto desenvolvido durante a **Maratona Explorer #1** oferecida pela [Rocketseat](https://evento.rocketseat.com.br/maratona-explorer/episodios/explorer/abertura/edicao/1). A Maratona Explorer é uma experiência online com muito conteúdo prático e dicas, onde é desenvolvida uma aplicação completa do zero durante uma semana.
+
+***Ticket do evento:***
+
+<a href="https://maratona-explorer-ticket.rocketseat.com.br/ticket/giancarlos-mendes/share"><img src="./img/ticket.png" width="500px" alt="Ticket do Evento"/></a>
+
 
 ---
 
